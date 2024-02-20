@@ -3,7 +3,7 @@
 <header>
   <p>Pode me chamar de Neto 👨‍🎓</p>
   <p>💻 Atualmente estou desenvolvendo e estudando HTML, CSS, JS e React.</p>
-  <p>Tenho 24 anos e estou em busca de emprego como DEV. ✔️</p>
+  <p>Tenho 26 anos e estou em busca da minha primeira oportunidade como DEV. ✔️</p>
 </header>
 
 <div>
